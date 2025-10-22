@@ -1,15 +1,15 @@
-From: "PayPal Support" <support@paypall.com> 
-To: user@example.com 
-Subject: Urgent: Your Account Has Been Suspended! 
- 
-Dear Customer, 
-We detected unusual activity on your PayPal account. 
-To protect your account, we've temporarily limited access. 
- 
-Please verify your information immediately to restore access: 
-?? https://paypal-verification-secure-login.com 
- 
-Failure to verify within 24 hours will result in permanent suspension. 
- 
-Thank you, 
-PayPal Security Team 
+From: "PayPal Support" <security@paypal-update.com>
+To: user@example.com
+Subject: Urgent: Verify Your Account Immediately
+
+Dear Customer,
+
+We have detected suspicious activity in your PayPal account. To restore access, please verify your account immediately using the link below:
+
+https://paypal.com.verify-account-security-update.com/login
+
+Failure to verify within 24 hours will result in account suspension.
+
+Thank you,
+PayPal Security Team
+This is the raw phishing email sample. 
